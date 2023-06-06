@@ -1,0 +1,26 @@
+.content {
+    margin-left: 4px;
+    display: inline-block;
+    width: 70vw;
+    border: solid black 1px;
+    border-radius: 5px;
+    height: 34px;
+    padding-left: 4px;
+    padding-top: 5px;
+}
+
+.item-button {
+    height: 40px;
+    margin-left: 3px;
+    min-width: 60px;
+    border: 0;
+    border-radius:5px;
+}
+
+.item-button:hover {
+    cursor: pointer;
+}
+
+.item {
+    margin-top: 10px;
+}
